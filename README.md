@@ -1,7 +1,5 @@
 # Ultrasonic-Sensor-Belt-Project
 
-Hi my name is Raksheet Kota and I am here today to present my GTISM project: Watch OUt! A  novel wearable navigation apparatus for the blind. 
-
 According to the world health organization , as of 2010, there are a total of 285 million visually impaired people in the world with 39 million of them being blind. This is truly an immense number and is only expected to increase in the coming years.
 
  While technology such as smart canes and handheld collision detectors are certainly available to aid those afflicted in certain areas of their life, there are many economically disadvantaged people, possibly living in less developed regions of the world, for whom such technology is simply not viable. This inability to mitigate the negative effects of blindness is a huge deficit for the person afflicted by it. 
